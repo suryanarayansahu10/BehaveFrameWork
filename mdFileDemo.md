@@ -4,10 +4,10 @@ The Internet works through a global network of interconnected computers and serv
 
 ## Free Resources  
 
-- **Roadmap** [Introduction to Internet](https://roadmap.sh/internet)  
-- **Article** [How does the Internet Work?](https://www.cloudflare.com/learning/network-layer/how-does-the-internet-work/)  
-- **Article** [How Does the Internet Work? MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)  
-- **Video** [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)  
+**Roadmap** [Introduction to Internet](https://roadmap.sh/internet)  
+**Article** [How does the Internet Work?](https://www.cloudflare.com/learning/network-layer/how-does-the-internet-work/)  
+**Article** [How Does the Internet Work? MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)  
+**Video** [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)  
 
 ## Premium Resources  
 
