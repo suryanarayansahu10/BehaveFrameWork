@@ -4,7 +4,9 @@ GitLab is a web-based DevOps platform that provides a complete solution for the 
 
 Visit the following resources to learn more:
 
-- Atricle [@official@GitLab Website](https://gitlab.com/)
-- Atricle [@official@GitLab Documentation](https://docs.gitlab.com/)
-- Atricle [@article@Development: Connect git to GitLab for Small Projects](https://thenewstack.io/development-connect-git-to-gitlab-for-small-projects/)
-- Atricle [@feed@Explore top posts about GitLab](https://app.daily.dev/tags/gitlab?ref=roadmapsh)
+## Free Resources  
+
+- **Roadmap** [Introduction to Internet](https://roadmap.sh/internet)  
+- **Article** [How does the Internet Work?](https://www.cloudflare.com/learning/network-layer/how-does-the-internet-work/)  
+- **Article** [How Does the Internet Work? MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)  
+- **Video** [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
