@@ -1,18 +1,18 @@
-name: "✍️ ​ ​Missing or Deprecated Roadmap Topics"
-description: Help us improve the roadmaps by suggesting changes
+name: "✍️ ​ ​Missing or Deprecated Career Topics"
+description: Help us improve the askovix by suggesting changes
 labels: [topic-change]
 assignees: []
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to help us improve the roadmaps with your suggestions.
+        Thanks for taking the time to help us improve the askovix with your suggestions.
   - type: input
     id: url
     attributes:
-      label: Roadmap URL
-      description: Please provide the URL of the roadmap you are suggesting changes to.
-      placeholder: https://roadmap.sh
+      label: Askovix URL
+      description: Please provide the URL of askovix you are suggesting changes to.
+      placeholder: https://careerpath.askovix.com/
     validations:
       required: true
   - type: textarea
