@@ -2,8 +2,7 @@
 
 B.Tech in Information Technology (IT) focuses on computer systems, software development, networking technologies, and information security. This four-year program covers subjects such as programming languages (Java, Python), database management systems (SQL), cloud computing, artificial intelligence (AI), and cybersecurity. Students learn to design software solutions and manage IT infrastructure effectively. Practical training includes projects like developing e-commerce platforms or implementing network security protocols.
 
-**The benefits of pursuing a B.Tech degree in IT:**
-
+### The benefits of pursuing a B.Tech degree in IT:
 Career paths include roles such as IT consultant, software developer, or network administrator. For example, graduates may work on optimizing cloud-based systems for companies or developing secure mobile applications. The course equips students with skills to tackle challenges in healthtech, fintech, and edtech industries. Top recruiters include Infosys, TCS, Wipro, and startups leveraging emerging technologies.
 
 
